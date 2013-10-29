@@ -9,9 +9,9 @@ and open the template in the editor.
 */
 
 #mainContainer {
-    background-image: url("../img/fondo.png");
-    background-size: 100% 100%;
-    height: 768px;
-    margin: 0px 0px 0px 0px;
-    width: 1024px;
+    background-image: url("../img/fondo.png"); //imagen que va de fondo
+    background-size: 100% 100%;  //Redimension de la imagen de fondo
+    height: 768px; //altura del container principal
+    margin: 0px 0px 0px 0px; //margenes
+    width: 1024px; //anchura del container principal
 }
